@@ -11,9 +11,9 @@
 
 		<properties>
 			<property name="javax.persistence.jdbc.driver"	value="oracle.jdbc.driver.OracleDriver" />
-			<property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@172.2.1.9:1521:mili" />
-			<property name="javax.persistence.jdbc.user" value="webservices" />
-			<property name="javax.persistence.jdbc.password" value="wbp6th" />
+			<property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@172.2.1.9:1521:felipe" />
+			<property name="javax.persistence.jdbc.user" value="felipe" />
+			<property name="javax.persistence.jdbc.password" value="felipe" />
 			
 			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.hbm2ddl.auto" value="none" />
